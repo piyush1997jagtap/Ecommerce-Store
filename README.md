@@ -46,6 +46,5 @@ Along with my personal modification to make it interactive.
 ![address](https://user-images.githubusercontent.com/49496878/137600686-bbf40cc9-5fd9-424d-8289-ef4d2a5ffe90.png)
 ![delivery](http![payment](https://user-images.githubusercontent.com/49496878/137600694-4881cb67-1810-41b4-be16-26ec4c497284.png)
 s://user-images.gi![confirm](https://user-images.githubusercontent.com/49496878/137600696-a5448ec1-3d66-4e53-a2be-7d31c07229f8.png)
-thubusercontent.com/49496878/137600690-746680c0-e3e3-4d49-a5d4-6c700866136e.png)
 
 
