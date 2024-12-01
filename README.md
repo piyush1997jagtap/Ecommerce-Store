@@ -23,6 +23,15 @@ An ecommerce app for selling Skiing equipments list used Stripe for payment proc
 This project was generated with Angular CLI version 9.0.1. You can cd into client folder and 
 use command `npm i` to install the required packages.
 
+**Backend Architecture**
+---
+We have have Repository and Unit of Work Pattern to ensure separation of concerns and scalability and reusability of the code.
+
+**Database Architecture**
+---
+We are using SQLite as the database. We are using code first approach to create the database where we will write the code for the tables and our database and later 
+construct the database using migrations provided by Entity Framework.
+
 **To serve the application**: 
 ---
 Use command   `ng serve`
