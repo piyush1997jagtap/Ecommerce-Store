@@ -21,7 +21,7 @@ An ecommerce app for selling Skiing equipments list used Stripe for payment proc
 **Client**:
 ---
 This project was generated with Angular CLI version 9.0.1. You can cd into client folder and 
-use commadn `npm i` to install the required packages.
+use command `npm i` to install the required packages.
 
 **To serve the application**: 
 ---
