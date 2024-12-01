@@ -38,12 +38,19 @@ API Layer: This layer is responsible for handling HTTP requests and responses. I
 Infrastructure Layer: This layer manages interactions with external systems. It communicates with the database to perform CRUD operations and handles any data access logic. It contains repositories, which help in decoupling the data access logic from the business logic.
 
 Core Layer: The core layer houses the business entities and contains all the business logic. It is independent of external dependencies, making it easier to test and maintain. The classes in this layer define the properties of the business objects, such as products for an e-commerce site.
+
+**Different Data Types**
+---
 ![image](https://github.com/user-attachments/assets/c5062649-d202-49b1-84e5-ae6d521d4c66)
 ![image](https://github.com/user-attachments/assets/9f93ea98-6023-40fd-b691-29cbba6894dd)
 ![image](https://github.com/user-attachments/assets/6993e6df-e8d0-4d30-83e4-136d0bff5a3b)
-Different Interfaces used for Dependency Injection
+
+**Different Interfaces used for Dependency Injection**
+---
 ![image](https://github.com/user-attachments/assets/8320c152-2191-4dee-acba-98bd3aa6185d)
-Different API Endpoints
+
+**Different API Endpoints**
+---
 ![image](https://github.com/user-attachments/assets/fcaaaf31-a420-4901-8a2d-7ec6cd616b5c)
 
 
