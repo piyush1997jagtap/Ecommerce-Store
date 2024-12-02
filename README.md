@@ -36,12 +36,12 @@ Use ng serve to start the front-end application.
 
 **Backend**:
 ---
-In the root folder use the command
-dotnet restore
-docker compose up -d
-cd API
-dotnet run
-This will start the backend server
+* In the root folder use the command
+* dotnet restore
+* docker compose up -d
+* cd API
+* dotnet run
+* This will start the backend server
 
 **Backend Architecture**
 ---
