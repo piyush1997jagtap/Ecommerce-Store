@@ -2,6 +2,14 @@
 
 An ecommerce app for selling Skiing equipments list used Stripe for payment processing.
 
+**Team Members**
+---
+Piyush Jagtap
+Omkar Dedge
+Sanket Auti
+Umesh Ugale
+Every contributed to all the parts of the project
+
 **Client side technologies used are**:
 * Angular 9
 * Bootstrap 4
@@ -25,7 +33,7 @@ use command `npm i` to install the required packages.
 
 **Backend Architecture**
 ---
-We have have Repository and Unit of Work Pattern to ensure separation of concerns and scalability and reusability of the code.
+We have have Repository and Unit of Work Pattern along with Singleton and Dependency Injection to ensure separation of concerns and scalability and reusability of the code.
 
 **Database Architecture**
 ---
