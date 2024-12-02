@@ -4,11 +4,11 @@ An ecommerce app for selling Skiing equipments list used Stripe for payment proc
 
 **Team Members**
 ---
-Piyush Jagtap
-Omkar Dedge
-Sanket Auti
-Umesh Ugale
-Every contributed to all the parts of the project
+* Piyush Jagtap
+* Omkar Dedge
+* Sanket Auti
+* Umesh Ugale
+* Every contributed to all the parts of the project
 
 **Client side technologies used are**:
 * Angular 9
