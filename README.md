@@ -26,10 +26,22 @@ An ecommerce app for selling Skiing equipments list used Stripe for payment proc
 * AutoMapper
 * Entity Famework
 
+Steps to run
+
 **Client**:
 ---
 This project was generated with Angular CLI version 9.0.1. You can cd into client folder and 
 use command `npm i` to install the required packages.
+Use ng serve to start the front-end application.
+
+**Backend**:
+---
+In the root folder use the command
+dotnet restore
+docker compose up -d
+cd API
+dotnet run
+This will start the backend server
 
 **Backend Architecture**
 ---
