@@ -82,10 +82,6 @@ Use command   `ng serve`
 ---
 This project is built using asp.net core 3.1. you can cd into API directory and say dotnet restore and then dotnet watch run.
 
-**About the project**:
----
-This project was made by referring to a udemy course 'Learn to build an e-commerce app with .Net Core and Angular'
-Along with my personal modification to make it interactive.
 
 **Some snapshots of the project**:
 ---
